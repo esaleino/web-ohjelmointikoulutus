@@ -8,3 +8,5 @@ text.txt
 phpinfo.php
 data.json
 test.js
+assets/css/bootstrap.min.css
+scripts/bootstrap.min.js
