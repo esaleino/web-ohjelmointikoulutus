@@ -1,0 +1,78 @@
+.column {
+    width: 800px;
+    margin: auto;
+    height: fit-content;
+    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgray;
+    border: solid black 2px;
+}
+
+.row {
+    width: 800px;
+    margin: auto;
+    height: fit-content;
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.rowCurrency {
+    width: 300px;
+    margin: auto;
+    height: fit-content;
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.content {
+    text-align: center;
+    width: 100%;
+    margin: 2px;
+    padding: 0px;
+}
+
+.currencyLeft {
+    margin: 2px;
+    padding: 0px;
+    text-align: center;
+    width: 300px;
+    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.currencyMiddle {
+    text-align: center;
+    width: 150px;
+    margin: 2px;
+    padding: 0px;
+    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.currencyRight {
+    margin: 2px;
+    padding: 0px;
+    text-align: center;
+    width: 300px;
+    background-color: lightgray;
+    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}

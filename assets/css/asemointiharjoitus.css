@@ -1,0 +1,44 @@
+.sailio {
+    width: 1000px;
+    margin: auto;
+    height: fit-content;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header_links {
+    background-color: gray;
+}
+.header_links > h1 {
+    font-size: 22px;
+    font-family: cursive;
+}
+
+li > a{
+    text-decoration: none;
+}
+
+.sisalto {
+    text-align: center;
+    width: 650px;
+    background-color: lightgray;
+    border: solid black 2px;
+    margin: 2px;
+    padding: 0px;
+}
+
+.navi1 {
+    margin: 2px;
+    padding: 0px;
+    text-align: center;
+    width: 150px;
+    background-color: lightgray;
+}
+
+.navi2 {
+    margin: 2px;
+    padding: 0px;
+    text-align: center;
+    width: 150px;
+    background-color: lightgray;
+}

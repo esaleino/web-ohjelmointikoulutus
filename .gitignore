@@ -1,0 +1,10 @@
+package.json
+package-lock.json
+/node_modules
+.prettier*
+*.old*
+text.txt
+.htaccess
+phpinfo.php
+data.json
+test.js
